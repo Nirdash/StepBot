@@ -1,0 +1,13 @@
+{
+    "name": "step.bot",
+    "description": "VK bot for ITMO.STEP project",
+    "authors": [
+        {
+            "name": "Shadrin Vladislav",
+            "email": "nirdash.v@gmail.com"
+        }
+    ],
+    "require": {
+        "vkcom/vk-php-sdk": "^5.80"
+    }
+}

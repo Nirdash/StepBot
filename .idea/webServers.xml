@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="853dc74e-e14d-4043-8fe9-1ac90c52ef30" name="Helios" url="https://se.ifmo.ru/~s225070/stepbot">
+        <fileTransfer host="helios.cs.ifmo.ru" port="2222" rootFolder="/stepbot" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
